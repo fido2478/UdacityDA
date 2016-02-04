@@ -1,4 +1,4 @@
 # Data Analyst
-* P1: Descriptive Statistics
-* P2: Intro to Data Science - NYC MTC Weather
-* P3: MongoDB -  Open Street Map
+* P1: Statistics
+* P2: Intro to Data Science - NYC Subway Dataset
+* P3: Wrangling data with MongoDB - Open Street Map
